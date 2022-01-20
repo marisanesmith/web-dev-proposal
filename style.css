@@ -60,7 +60,8 @@ li {
 }
 
 a {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    letter-spacing: 0.02em;
     font-weight: bold;
     color: #9F6C62;
     font-family: 'gallient';
