@@ -26,7 +26,7 @@ html {
 }
 
 h1 {
-    font-family: 'gallient', serif;
+    font-family: 'gallient';
     font-size: 2.3rem;
     color: #9F6C62;
     padding-bottom: 1rem;
@@ -46,7 +46,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: white;
     font-weight: 300;
 }
@@ -63,7 +63,7 @@ a {
     font-size: 1.1rem;
     font-weight: bold;
     color: #9F6C62;
-    font-family: 'Crimson', serif;
+    font-family: 'gallient';
     text-decoration: none;
     cursor: pointer;
 }
