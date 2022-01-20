@@ -15,20 +15,30 @@ html {
 
 /* Typography Styles */
 
+@font-face {
+    font-family: 'gallient';
+    src: url('./font/GallientRegular-eZoMp.ttf');
+}
+
+@font-face {
+    font-family: 'goldenHopes';
+    src: url('./font/GoldenHopes-rgAlA.otf');
+}
+
 h1 {
-    font-family: 'Crimson', serif;
+    font-family: 'gallient', serif;
     font-size: 2.3rem;
     color: #9F6C62;
     padding-bottom: 1rem;
 }
 
 h2, h3 {
-    font-family: 'Crimson', serif;
     line-height: 1;
     letter-spacing: 0.02em;
 }
 
 h2 {
+    font-family: 'gallient';
     font-size: 1.6rem;
     color: #9F6C62;
     padding: 1rem;
@@ -39,6 +49,7 @@ h3 {
     font-size: 1.3rem;
     color: white;
     font-weight: 300;
+    font-family: 'goldenHopes';
 }
 
 p,
